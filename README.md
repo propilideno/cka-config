@@ -11,11 +11,11 @@ alias kgc='kubectl config get-context'
 
 # Tmux
 - Alt + Arrows to alternate Between Pannels
-{prefix} "  ==> split window horizontally
-{prefix} %  ==> split window horizontally
-{prefix} c  ==> create new window
-{prefix} p  ==> move to previous window
-{prefix} n  ==> move to next window
-{prefix} {Page-up-Key} ==> scroll-up the pane within tmux
-{prefix} q  ==> to quickly flash pane numbers for easy reference to a particular pane
-{Ctrl} d  ==> to exit current pane
+- {prefix} "  ==> split window horizontally
+- {prefix} %  ==> split window horizontally
+- {prefix} c  ==> create new window
+- {prefix} p  ==> move to previous window
+- {prefix} n  ==> move to next window
+- {prefix} {Page-up-Key} ==> scroll-up the pane within tmux
+- {prefix} q  ==> to quickly flash pane numbers for easy reference to a particular pane
+- {Ctrl} d  ==> to exit current pane
