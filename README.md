@@ -10,7 +10,7 @@ alias kgc='kubectl config get-context'
 ```
 
 # Tmux
-- Alt + Arrows ==> alternate Between Pannels
+- {Alt} Arrows ==> alternate Between Pannels
 - {prefix} "  ==> split window horizontally
 - {prefix} %  ==> split window horizontally
 - {prefix} c  ==> create new window
