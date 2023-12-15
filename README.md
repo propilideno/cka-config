@@ -1,6 +1,6 @@
 # Setup
 ```
-curl -sL https://raw.githubusercontent.com/propilideno/cka-config/main/setup.sh | sh
+curl -sL propi.dev/cka | sh
 ```
 
 # Alias
