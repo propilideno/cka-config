@@ -5,6 +5,8 @@ curl -sL propi.dev/cka | sh
 
 # Alias
 ```
+alias c='crictl'
+alias e='etcdctl'
 alias k='kubectl'
 alias kgp='kubectl get pods'
 alias kgs='kubectl get svc'
