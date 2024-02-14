@@ -16,6 +16,11 @@ alias kcon='kubectl config use-context'
 alias kgc='kubectl config get-context'
 ```
 
+# Envinronment Variables
+```
+export ETCDCTL_API=3
+```
+
 # Tmux
 - {Alt} Arrows ==> alternate Between Pannels
 - {prefix} "  ==> split window horizontally
